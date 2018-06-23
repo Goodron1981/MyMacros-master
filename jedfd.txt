@@ -1,0 +1,4 @@
+Идентификатор клиента	
+167567712626-dka1i1tj0omrgnkkm6b95q41p93rqfo5.apps.googleusercontent.com
+Секрет клиента	
+hl9XDZcYCIm0ZSSFvjneRN-N
